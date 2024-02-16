@@ -1,0 +1,13 @@
+html{
+  background-color: black;
+}
+.text{
+  color: white;
+  align-items: center;
+}
+#box{
+  margin: 25px 250px 25px 250px;
+  display: flexbox;
+  align-items: center;
+  justify-content: center;
+}

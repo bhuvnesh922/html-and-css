@@ -1,0 +1,96 @@
+{
+  "folders": [
+    {
+      "name": "4.0+File+Paths",
+      "path": "../../4.0+File+Paths"
+    },
+    {
+      "name": "6.1+Font+Properties",
+      "path": "../../6.1+Font+Properties"
+    },
+    {
+      "name": "6.3 CSS Box Model",
+      "path": "../../6.3+CSS+Box+Model/6.3 CSS Box Model"
+    },
+    {
+      "name": "6.4 Motivation Meme Project",
+      "path": "."
+    },
+    {
+      "name": "7.0+CSS+Cascade",
+      "path": "../../7.0+CSS+Cascade"
+    },
+    {
+      "name": "7.1+Combining+Selectors",
+      "path": "../../7.1+Combining+Selectors"
+    },
+    {
+      "name": "7.2+CSS+Positioning",
+      "path": "../../7.2+CSS+Positioning"
+    },
+    {
+      "name": "7.3+Flag+Project",
+      "path": "../../7.3+Flag+Project"
+    },
+    {
+      "path": "../../8.0+CSS+Display/8.0 CSS Display"
+    },
+    {
+      "path": "../../8.1+CSS+Float/8.1 CSS Float"
+    },
+    {
+      "path": "../../9.0+Display+Flex/9.0 Display Flex"
+    },
+    {
+      "path": "../../9.1+Flex+Direction"
+    },
+    {
+      "path": "../../9.4+Flexbox+Pricing+Table+Project"
+    },
+    {
+      "path": "../../10.0+Display+Grid"
+    },
+    {
+      "path": "../../10.1+Grid+Sizing"
+    },
+    {
+      "path": "../../10.2+Grid+Placement"
+    },
+    {
+      "path": "../../10.3+Mondrian+Project"
+    },
+    {
+      "path": "../../11.0+Bootstrap+Intro"
+    },
+    {
+      "path": "../../11.2+Bootstrap+Components"
+    },
+    {
+      "path": "../../11.3+TinDog+Project"
+    },
+    {
+      "path": "../../2.1+Using+Node"
+    },
+    {
+      "path": "../../2.2+Native+Modules"
+    },
+    {
+      "path": "../../2.3+NPM"
+    },
+    {
+      "path": "../../2.4+QR+Code+Project"
+    },
+    {
+      "path": "../../../OneDrive/Documents/VS CODE/JQuery"
+    },
+    {
+      "path": "../../3.1 Express Server"
+    },
+    {
+      "path": "../../3.2 HTTP Requests"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "11.3+TinDog+Project"
+  }
+}
